@@ -1,0 +1,7 @@
+
+-Py audio
+-Wave
+-os
+-numpy
+-matplotlib
+-scipy
